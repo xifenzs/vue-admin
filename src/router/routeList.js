@@ -108,7 +108,6 @@ export const menuRoutes = [
     {
       path: '*',
       hideMenu: true,
-      name: '404',
       redirect: '/404'
     }
 ]
